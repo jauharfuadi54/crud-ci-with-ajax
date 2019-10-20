@@ -2,7 +2,7 @@
 Lihat Tutorialnya di
 ********************
 ###############################################################################################################
-<a href="https://www.indeveloper.id/2019/10/tutorial-crud-codeigniter-tanpa-reload.html">WWW.INDEVELOPER.ID</a>
+https://www.indeveloper.id/2019/10/tutorial-crud-codeigniter-tanpa-reload.html" | WWW.INDEVELOPER.ID
 ###############################################################################################################
 
 
